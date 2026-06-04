@@ -4,3 +4,7 @@ Participantes:
 - Sebastián Rulet (ALFA)
 - Horacio Gabriel Benitez (BETA)
 - Hector Franco Sarabia (GAMMA)
+
+a-Primero lo que hicimos fue sincronizar el fork desde GitHub utilizando la opción Sync fork para traer los cambios del repositorio original. Luego en nuestra carpeta, se ejecuta el comando git pull para descargar y actualizar los cambios en la carpeta local.
+
+b-Si, se puede ya que los repositorios públicos se pueden utilizar. Pero no es lo mas recomendado, lo mejor siempre es sincronizarlos con el original
